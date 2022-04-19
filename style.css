@@ -1,0 +1,17 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+body{
+    text-align: center;
+}
+.img01{
+    width: 98%;
+    height: 98%;
+}
+
+.div01{
+    border: 2px solid grey;
+    margin-bottom: 30px;
+}
