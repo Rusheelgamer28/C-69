@@ -1,11 +1,10 @@
+
 #contact iframe
 {
     width: 100%;
 }
 
-body{
-    text-align: center;
-}
+
 .img01{
     width: 98%;
     height: 98%;
@@ -14,4 +13,21 @@ body{
 .div01{
     border: 2px solid grey;
     margin-bottom: 30px;
+}
+
+.arrow01{
+    float: right;
+}
+
+.h201{
+    padding: 15px;
+}
+
+ .fil01{
+    margin-right:10px ;
+}
+
+.img2{
+    width: 335px;
+    height: 499px;
 }
